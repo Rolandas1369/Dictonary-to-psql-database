@@ -5,6 +5,6 @@ Insert your psql database pasword and name to insert and create inserts.
 
 dictionary = {'key': 'value'}
 
-key = row name in psql
-values = value for row in psql
-table_name = name to create table with
+key = row name in psql <br>
+values = value for row in psql  <br>
+table_name = name to create table with  <br>
